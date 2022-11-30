@@ -1,1 +1,1 @@
-Prints the type of the file named
+symbolic link
