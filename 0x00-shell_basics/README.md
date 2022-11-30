@@ -1,1 +1,1 @@
-Display current directory contents digit only
+Creates a directory
