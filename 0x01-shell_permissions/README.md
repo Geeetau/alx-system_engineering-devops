@@ -1,1 +1,1 @@
-execute hello
+multiple permissions
