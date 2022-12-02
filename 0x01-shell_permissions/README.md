@@ -1,1 +1,1 @@
-directories
+clean emacs
