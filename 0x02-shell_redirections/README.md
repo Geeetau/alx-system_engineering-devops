@@ -1,1 +1,1 @@
-display content
+duplicate last line
