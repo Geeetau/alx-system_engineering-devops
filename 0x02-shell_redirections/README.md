@@ -1,1 +1,1 @@
-reverse
+dj cut killer
