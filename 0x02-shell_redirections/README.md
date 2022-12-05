@@ -1,1 +1,1 @@
-pattern root
+count that word
