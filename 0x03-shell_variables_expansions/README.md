@@ -1,1 +1,1 @@
-print -00
+floats
