@@ -1,1 +1,1 @@
-binary
+print -00
