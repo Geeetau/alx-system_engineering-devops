@@ -1,1 +1,1 @@
-best school
+export best school
