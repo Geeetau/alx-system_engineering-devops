@@ -1,1 +1,1 @@
-path be beautiful
+variables
