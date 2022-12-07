@@ -1,1 +1,1 @@
-to hexadecimal
+odd number
